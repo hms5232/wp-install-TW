@@ -6,7 +6,7 @@
 
 sudo add-apt-repository ppa:ondrej/php
 sudo apt update
-sudo apt install mariadb-server nginx php7.4-fpm php7.4-mysql
+sudo apt install mariadb-server php7.4-fpm php7.4-mysql php7.4-xml php7.4-curl php7.4-common php7.4-zip php7.4-mbstring nginx
 
 # https://tw.wordpress.org/download/
 wget https://tw.wordpress.org/latest-zh_TW.tar.gz
