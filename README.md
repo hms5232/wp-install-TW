@@ -55,3 +55,4 @@ server {
 
 ## 參考資料
 * https://hackmd.io/DLCTsoYCQi6RzklgLJTeEw?view#Wordpress-%E5%AE%89%E8%A3%9D
+* [Server Environment – Make WordPress Hosting](https://make.wordpress.org/hosting/handbook/handbook/server-environment/)
