@@ -17,4 +17,4 @@ sudo mv wordpress /var/www
 echo "Give permission to www-data."
 sudo chown -R www-data /var/www/wordpress/
 
-echo "｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡ Done!"
+echo '｡:.ﾟヽ(*´∀`)ﾉﾟ.:｡ Done!'
