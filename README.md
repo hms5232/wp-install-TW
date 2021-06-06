@@ -38,6 +38,11 @@ server {
 
 	server_name _;
 
+	# Change the maximum allowed size of the client request body
+	# default is 1m = 1MB
+	# set 0 to disable size check
+	client_max_body_size 16m;
+
 	location / {
 		try_files $uri $uri/ =404;
 	}
